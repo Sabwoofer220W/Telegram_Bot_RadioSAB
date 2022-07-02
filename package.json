@@ -1,0 +1,23 @@
+{
+  "name": "TelegramBots",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SAB",
+  "license": "ISC",
+  "dependencies": {
+    "@qiwi/bill-payments-node-js-sdk": "^3.2.1",
+    "axios": "^0.24.0",
+    "captcha-generator-alphanumeric": "^1.10.0",
+    "date-and-time": "^2.3.1",
+    "dotenv": "^14.1.0",
+    "mongodb": "^4.3.1",
+    "telegraf": "^4.6.0",
+    "uuid": "^8.3.2",
+    "xml-js": "^1.6.11"
+  }
+}
